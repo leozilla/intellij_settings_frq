@@ -1,0 +1,21 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <codeStyleSettings language="JAVA">
+          <indentOptions>
+            <option name="INDENT_SIZE" value="3" />
+            <option name="TAB_SIZE" value="3" />
+          </indentOptions>
+        </codeStyleSettings>
+        <codeStyleSettings language="XML">
+          <indentOptions>
+            <option name="INDENT_SIZE" value="3" />
+            <option name="TAB_SIZE" value="3" />
+          </indentOptions>
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="XVP" />
+  </component>
+</application>
