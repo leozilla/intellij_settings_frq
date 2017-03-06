@@ -1,11 +1,49 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="EclipseCodeFormatter">
+        <option name="defaultSettings" value="true" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1488739959705" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="$APPLICATION_PLUGINS_DIR$/EclipseFormatter/Frequentis-Java.xml" />
+        <option name="selectedJavaProfile" value="Frequentis-Java" />
+      </component>
       <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+        </profile>
         <version value="1.0" />
       </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="~\.m2\repository" />
+            <option name="userSettingsFile" value="~\.m2\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ant inspections</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="ProjectRootManager" version="2" default="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ics" />
+        <property name="last_opened_file_path" value="$APPLICATION_PLUGINS_DIR$/EclipseFormatter/Frequentis-Java.xml" />
+      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -71,6 +109,39 @@
           <option name="PARAMETERS" />
           <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
         </configuration>
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+            <option value="localCanBeFinal" />
+            <option value="fieldCanBeFinal" />
+            <option value="unqualifiedFieldAccess" />
+            <option value="suppressAnnotation" />
+            <option value="unnecessarySemicolon" />
+            <option value="missingOverrideAnnotation" />
+          </set>
+        </option>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.17522658" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
